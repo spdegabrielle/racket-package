@@ -6,7 +6,7 @@ This is a template generated using the `raco pkg new` command.
 You can either use the `raco pkg new [your package name]` command directly or clone this repo.
 
 **tasks**
-- [ ] update this file [`READMD.md`](READMD.md)
+- [ ] update this file [`README.md`](READMD.md)
 - [ ] update [`.travis.yml`](.travis.yml) 
 - [ ] update [`LICENSE.txt`](LICENSE.txt)
 - [ ] update [`info.rkt`](info.rkt)
