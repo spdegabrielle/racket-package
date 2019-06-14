@@ -8,7 +8,7 @@ You can either use the `raco pkg new [your package name]` command directly or cl
 **tasks**
 - [ ] update this file [`README.md`](README.md)
 - [ ] update [`.travis.yml`](.travis.yml) 
-- [ ] update [`LICENSE.txt`](LICENSE.txt)
+- [ ] update licence files [`LICENSE-MIT`, `LICENCE-APACHE`] with name and year.      
 - [ ] update [`info.rkt`](info.rkt)
 - [ ] update [`scribblings/racket-package.scrbl`](scribblings/racket-package.scrbl)
 - [ ] update [`main.rkt`](main.rkt) to get coding.
