@@ -9,9 +9,14 @@ Steps:
 3. set your PATH environment variable to the racket/bin
 4. open command prompt
 5. type `raco pkg new your-package-name-name-here`
-6. 
 
-You can either use the `raco pkg new [your package name]` command directly or clone this repo.
+`raco pkg new` generates
+- license files 
+- Racket `.gitignore`
+- main.rkt
+- scribble files
+
+
 
 **tasks**
 - [ ] update this file [`README.md`](README.md)
@@ -35,4 +40,3 @@ To uninstall:
 
 See the current version of the racket style guide here:
 <http://docs.racket-lang.org/style/index.html>
-
